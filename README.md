@@ -3,7 +3,7 @@
 <h1>WorldSkills 2024 - Regional Phase: </h1>
 
 
-<p>Me and my collegue Gefferson, attended the WorlSkills second-fase (regional).</p>
+<p>Me and my collegue <a href="https://www.linkedin.com/in/geffersoncosta/">Gefferson</a>, attended the WorlSkills second-fase (regional).</p>
 <p>Initially, it was propose that we developed models: Hero, Enemy A, Enemy B, with Autodesk Maya, and then make their textures using Adobe Substance 3D Painter.</p>
 <p>With that done, we started to program our video-game using Unity, which consisted a space shooter game, with enemies coming from the front, and the main objective was to eliminate them.</p>
 <p>We had two main abilities: fire shoot, and speed.</p>
