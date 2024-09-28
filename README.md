@@ -15,8 +15,10 @@ After being hit from an enemy it was game-over, and we could try again.
 
 ![model3](https://github.com/user-attachments/assets/cd3d292d-8214-4ee6-bbce-23084e5bb2a0)
 ![model2](https://github.com/user-attachments/assets/35859765-1d21-4ef9-840a-78c24091edb3)
-![model1](https://github.com/user-attachments/assets/2e113b69-a9bd-4d7f-b0c4-3fe49d42b919)
+![model1](https://github.com/user-
 
+https://github.com/user-attachments/assets/2078949c-6cb1-46ff-8c17-1e25c29e0b89
 
-https://github.com/user-attachments/assets/d65a6170-b9cc-4f95-a32b-6e019dff7554
+attachments/assets/2e113b69-a9bd-4d7f-b0c4-3fe49d42b919)
+
 
